@@ -21,6 +21,7 @@ body{
 }
 #continor{
   overflow: hidden;
+  font-size:100%;
 }
 .par{
   translate:0px -8px;
@@ -88,6 +89,7 @@ h4{
   margin: 10px;
   color:#ffffff;
   translate:0px -20px;
+  font-size:30px;
 }
 p{
   translate:0px 20px;
